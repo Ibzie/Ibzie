@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I like data.<br>I like to collect data.<br>I like to play with data.<br>I don't like to visualize graph data.<br>I do like to analyze data though.<br><br>I like machines.<br>I like learning.<br>I like machine learning.<br><br>Trying to learn as much as I can...
 
 # 💻 Tech Stack:
