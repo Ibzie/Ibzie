@@ -21,10 +21,15 @@ Breaking things to understand them, then making them work again.
 ## Tech I Work With
 
 **Languages:** Python for speed, C++ for performance, Rust for when I am bored
+
 **ML/AI:** PyTorch, TensorFlow, scikit-learn, LLM wrangling  
+
 **Infrastructure:** Docker, AWS, GCP, Spark/Kafka  
+
 **Voice:** Real-time streaming, WebRTC, Telephony
+
 **Data:** SQL, MongoDB, Voldemort,Cassandra and pretty much all the VectorDBs
+
 **Game Engines:** Unreal, Unity (for when I am reminded how bad the RAM market is)
 
 ---
