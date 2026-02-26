@@ -1,8 +1,8 @@
 # Ibzie
 
-Game Dev turned Data Choom turned Data Scientist turned Dragonborn turned ML Engineer.
+Game Dev -> Data Choom -> Data Scientist -> Dragonborn -> ML Engineer.
 
-**ibziieee@gmail.com**
+**ibrahimakhtar3@gmail.com**
 
 ## What I'm Building
 
