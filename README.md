@@ -1,8 +1,7 @@
 # Ibzie
 
-Game Dev -> Data Choom -> Data Scientist -> Dragonborn -> ML Engineer.
+Game Dev -> Netrunner -> Data Scientist -> Dragonborn -> ML Engineer
 
-**ibrahimakhtar3@gmail.com**
 
 ## What I'm Building
 
@@ -14,25 +13,14 @@ Breaking things to understand them, then making them work again.
 
 - Production voice AI (Pipecat, WebRTC, AssemblyAI)
 - Automation Pipelines
-- Systems programming in Rust
-- Mechanistic interpretability wherever possible
-- Procedural generation experiments
+- Oservability for AI Agents
+- Systems programming
+- Mechanistic interpretability wherever possible (Independent Research)
+- World Models (Independent Research) 
 
-## Tech I Work With
 
-**Languages:** Python for speed, C++ for performance, Rust for when I am bored
+I like data. I like machines. I like learning.
 
-**ML/AI:** PyTorch, TensorFlow, scikit-learn, LLM wrangling  
+Prefer understanding how AI works under the hood instead of just calling APIs.
 
-**Infrastructure:** Docker, AWS, GCP, Spark/Kafka  
-
-**Voice:** Real-time streaming, WebRTC, Telephony
-
-**Data:** SQL, MongoDB, Voldemort,Cassandra and pretty much all the VectorDBs
-
-**Game Engines:** Unreal, Unity (for when I am reminded how bad the RAM market is)
-
----
-
-I like data. I like machines. I like learning.  
-Prefer understanding how AI works over just calling APIs. 
+Can do both for the right amount of eddies.
