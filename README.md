@@ -1,6 +1,6 @@
 # Ibzie
 
-Game Dev -> Netrunner -> Data Scientist -> Dragonborn -> ML Engineer
+AI Engineer | Netrunner | Data Scientist | Dragonborn | ML Engineer
 
 
 ## What I'm Building
